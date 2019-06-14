@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277713667273",
+    "firebase_url": "https://whoiam-e987a.firebaseio.com",
+    "project_id": "whoiam-e987a",
+    "storage_bucket": "whoiam-e987a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277713667273:android:a5c5ccef492dc777",
+        "android_client_info": {
+          "package_name": "kr.phps.vps.jonghyun4706.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277713667273-8orfierjjev1f61di18eug3ef96qjiid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqPneaMBm60zjJgS0qH0APQId4p6DxCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277713667273-8orfierjjev1f61di18eug3ef96qjiid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
